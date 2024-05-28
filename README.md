@@ -1,3 +1,6 @@
+
+Published link : https://praneeth-potharaju.github.io/emoji-game/
+
 ## LIVE DEMO :-  <a href="https://emojigame1.netlify.app/">Emoji Game</a>
 - Live Link : https://emojigame1.netlify.app/   <br/>
 In this assignment let's build a **Emoji Game** 
